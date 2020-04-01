@@ -45,7 +45,7 @@ close.forEach(element => {
         content.classList.add("animated")
 
         setTimeout(() => {
-            location.href = "/"
+            location.href = "/boletines"
         }, 600)
         return false
     })
